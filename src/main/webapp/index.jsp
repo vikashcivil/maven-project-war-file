@@ -47,7 +47,7 @@ height:400px;
 <h2>It is located at ANDHRA PRADESH STATE</h2>
 <h2>Please visit NATURE and Enjoy the NATURE</h2>
 <h3>Thank You Guys who are saw this page </h3>
-<h4>"MUKTHA VIKASH"</h4>
+<h4>MUKTHA VIKASH</h4>
 </div>
 </div>
 </body>
