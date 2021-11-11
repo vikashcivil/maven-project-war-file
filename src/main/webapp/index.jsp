@@ -15,9 +15,9 @@ margin-top:10px;
 h1{
 font-size:35px;
 color: blue;
-    margin-top: -501px;
+    margin-top: -401px;
 
-    width: 600px;
+    width: 500px;
 }
 
 h2{
@@ -37,7 +37,7 @@ height:400px;
 </style>
 <body>
 <div class="imgcontainer ">
-<img src="https://www.travelandleisureindia.in/wp-content/uploads/2020/05/Feature-image-Tirumala.jpg" width="1400" height="650">
+<img src="https://www.travelandleisureindia.in/wp-content/uploads/2020/05/Feature-image-Tirumala.jpg" width="1500" height="750">
 <div class="container">
 <h1>WELCOME TO TIRUPATHI TIRUMALA DEVASTHANAM</h1>
 
