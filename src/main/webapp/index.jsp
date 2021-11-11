@@ -29,6 +29,7 @@ h3{
 h4{
  font-size:35px;
   color:white;
+   width: 500px;
   }
 image{
 width:1000px;
