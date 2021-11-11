@@ -37,7 +37,7 @@ height:400px;
 </style>
 <body>
 <div class="imgcontainer ">
-<img src="https://www.travelandleisureindia.in/wp-content/uploads/2020/05/Feature-image-Tirumala.jpg" width="1500" height="650">
+<img src="https://www.travelandleisureindia.in/wp-content/uploads/2020/05/Feature-image-Tirumala.jpg" width="1500" height="700">
 <div class="container">
 <h1>WELCOME TO TIRUPATHI TIRUMALA DEVASTHANAM</h1>
 
