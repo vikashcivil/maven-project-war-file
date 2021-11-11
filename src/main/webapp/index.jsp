@@ -23,6 +23,9 @@ color: blue;
 h2{
 color:red;
 }
+h3{
+ color:yellow;
+  }
 image{
 width:1000px;
 height:400px;
