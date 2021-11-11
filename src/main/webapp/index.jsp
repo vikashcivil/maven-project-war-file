@@ -7,7 +7,7 @@
 .container {
 
   width: 400px;
-  height:550px;
+  height:650px;
   margin-left: 75px;
 margin-top:10px;
 }
@@ -37,7 +37,7 @@ height:400px;
 </style>
 <body>
 <div class="imgcontainer ">
-<img src="https://www.travelandleisureindia.in/wp-content/uploads/2020/05/Feature-image-Tirumala.jpg" width="1300" height="550">
+<img src="https://www.travelandleisureindia.in/wp-content/uploads/2020/05/Feature-image-Tirumala.jpg" width="1400" height="650">
 <div class="container">
 <h1>WELCOME TO TIRUPATHI TIRUMALA DEVASTHANAM</h1>
 
