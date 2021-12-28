@@ -28,7 +28,7 @@ h3{
   }
 h4{
  font-size:35px;
-  color:white;
+  color:green;
   }
 image{
 width:1000px;
